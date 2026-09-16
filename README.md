@@ -1,2 +1,4 @@
 # BaiTapThucHanhNhom
-VANDAT chỉnh sửa readme
+
+# Vo Le Gia Bao / 65130217.
+# VANDAT chỉnh sửa readme
