@@ -1,1 +1,5 @@
-Nguyễn Văn Hưng _65131205
+# BaiTapThucHanhNhom
+
+# Nguyễn Văn Hưng / 65131205.
+# Vo Le Gia Bao / 65130217.
+# VANDAT chỉnh sửa readme
